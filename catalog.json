@@ -34,11 +34,11 @@
 				"type": "episode",
 				"number": 1,
 				"ageRate": 0,
-				"title": "Online test",
-				"description": "Discord moflex link",
+				"title": "HTTP Fetch Test",
+				"description": "Link from my server",
 				"mediaUrls": {
-					"en": "https://cdn.discordapp.com/attachments/885556340599164929/886221030899716096/shawn_le_mouton.moflex",
-					"fr": "https://cdn.discordapp.com/attachments/885556340599164929/886221030899716096/shawn_le_mouton.moflex"
+					"en": "http://build-relates.gl.at.ply.gg:21780/jag.moflex",
+					"fr": "http://build-relates.gl.at.ply.gg:21780/jag.moflex"
 				},
 				"viewCount": 0,
 				"imageUrls": {
