@@ -34,15 +34,14 @@
 				"type": "episode",
 				"number": 1,
 				"ageRate": 0,
-				"title": "HTTP Fetch Test",
-				"description": "Link from my server",
+				"title": "Just a Game (1988)",
+				"description": "Just a Game was a lost song which was uploaded to WatZatSong by the user Gabor72, it gained traction when a user uploaded the song to YouTube, after 1 year it was found",
 				"mediaUrls": {
-					"en": "http://build-relates.gl.at.ply.gg:21780/jag.moflex",
-					"fr": "http://build-relates.gl.at.ply.gg:21780/jag.moflex"
+					"en": "http://build-relates.gl.at.ply.gg:21780/jag.moflex"
 				},
 				"viewCount": 0,
 				"imageUrls": {
-					"default": "https://dm13bvvnwveun.cloudfront.net/inazuma/thumbs/IE01-thumbnail.3dst"
+					"default": "https://github.com/CubeFun/cataloghandler/raw/main/jag.3dst"
 				},
 				"agePrerollVideo": ""
 			}
@@ -113,7 +112,7 @@
 			"setNode": {
 				"id": "channel:category1",
 				"type": "channel",
-				"title": "Test videos",
+				"title": "Lostwave (Found)",
 				"eshopLinks": "",
 				"imageUrls": {
 					"default": "https://dm13bvvnwveun.cloudfront.net/inazuma/thumbs/IE03-thumbnail.3dst"
